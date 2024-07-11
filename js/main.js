@@ -254,6 +254,4 @@ AOS.init({
 
         fixedContentPos: false,
     });
-
-    $('.appointment_time').timepicker();
 })(jQuery);
